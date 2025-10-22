@@ -1,6 +1,6 @@
 print("program pro zjisteni maxima")
 
-cisla = [1, 6, 3, 7, 8, 6, 8, -1]
+cisla = [5, 2, , 10, 6, 6, 4, -1]
 
 if cisla[0] == -1:
     print("Nebyla zadana žádná čísla.")
@@ -28,3 +28,4 @@ else:
     print("prvni vyskyt:", prvni)
     print("posledni vyskyt:", posledni)
     print("pocet maxima:", pocet_maxima)
+
