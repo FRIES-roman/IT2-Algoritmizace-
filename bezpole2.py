@@ -1,6 +1,6 @@
 print("program pro zjisteni maxima")
 
-cisla = [3, 7, 7, 2, 7]
+cisla = [10, 4, 6, 7, 7]
 n = len(cisla)
 
 maximum = cisla[0]
@@ -23,3 +23,4 @@ print("maximum je", maximum)
 print("prvni vyskyt", prvni)
 print("posledni vyskyt", posledni)
 print("pocet maxima", pocet_maxima)
+
